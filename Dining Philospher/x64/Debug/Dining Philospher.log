@@ -1,0 +1,6 @@
+﻿DiningPhilospher.obj : error LNK2019: unresolved external symbol __imp_pthread_create referenced in function main
+DiningPhilospher.obj : error LNK2019: unresolved external symbol __imp_pthread_join referenced in function main
+DiningPhilospher.obj : error LNK2019: unresolved external symbol __imp_sem_init referenced in function main
+DiningPhilospher.obj : error LNK2019: unresolved external symbol __imp_sem_wait referenced in function diningPhilosphers
+DiningPhilospher.obj : error LNK2019: unresolved external symbol __imp_sem_post referenced in function diningPhilosphers
+C:\Users\palapathik\documents\visual studio 2015\Projects\Dining Philospher\x64\Debug\Dining Philospher.exe : fatal error LNK1120: 5 unresolved externals
